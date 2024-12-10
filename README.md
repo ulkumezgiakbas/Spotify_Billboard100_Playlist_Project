@@ -41,3 +41,6 @@ Spotipy: https://spotipy.readthedocs.io/en/2.24.0/
 Billboard: https://www.billboard.com/charts/hot-100
 
 thank you for Dr. Angela Yu 
+
+<img width="1250" alt="Screenshot 2024-12-10 at 13 15 17" src="https://github.com/user-attachments/assets/b5c1ecbe-6f03-48e2-bf41-0a71f082f324">
+
